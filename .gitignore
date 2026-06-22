@@ -1,0 +1,22 @@
+_archived/
+research_cache/
+茆子豪—试用工作1/
+*.png
+*.docx
+*.pdf
+*.xlsx
+*.zip
+
+# 55-stock sensitive files
+55个股票.md
+55stock_leader_premium.ipynb
+表格_20260613.csv
+策略分析报告.md
+研报_*.md
+position_55.py
+find_similar_stocks.py
+concept_premium.py
+audit_research.py
+build_leader_pool.py
+analyze_failure.py
+extend_years.py
